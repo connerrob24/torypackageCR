@@ -6,3 +6,4 @@
 ^toypackageCR\.Rcheck$
 ^toypackageCR.*\.tar\.gz$
 ^toypackageCR.*\.tgz$
+^LICENSE\.md$
