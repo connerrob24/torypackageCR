@@ -3,3 +3,6 @@
 ^project\.Rcheck$
 ^project.*\.tar\.gz$
 ^project.*\.tgz$
+^toypackageCR\.Rcheck$
+^toypackageCR.*\.tar\.gz$
+^toypackageCR.*\.tgz$
